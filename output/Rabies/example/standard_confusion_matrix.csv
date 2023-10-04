@@ -1,0 +1,19 @@
+True,Artibeus lituratus,Bos taurus,Canis lupus,Capra hircus,Cerdocyon thous,Desmodus rotundus,Eptesicus fuscus,Equus caballus,Felis catus,Homo sapiens,Lasiurus borealis,Mephitis mephitis,Nyctereutes procyonoides,Procyon lotor,Tadarida brasiliensis,Vulpes lagopus,Vulpes vulpes,All
+Artibeus lituratus,54,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,75
+Bos taurus,16,26,0,5,0,13,0,5,1,0,1,0,3,3,2,0,0,75
+Canis lupus,1,0,57,16,2,1,0,0,1,5,7,1,17,4,2,0,0,114
+Capra hircus,0,2,3,68,0,0,0,1,3,0,1,0,1,4,0,0,1,84
+Cerdocyon thous,0,0,1,0,83,0,0,0,0,0,0,0,0,0,0,0,0,84
+Desmodus rotundus,7,2,0,0,0,44,0,0,0,0,1,0,0,0,1,0,0,55
+Eptesicus fuscus,1,0,0,1,0,2,42,0,1,0,10,20,1,6,2,0,0,86
+Equus caballus,5,6,0,1,0,11,0,27,1,1,0,0,0,0,0,0,0,52
+Felis catus,1,1,5,7,2,1,0,0,18,1,1,1,2,14,1,0,0,55
+Homo sapiens,5,1,13,21,2,9,0,1,2,44,4,6,20,2,4,0,1,135
+Lasiurus borealis,1,0,0,0,0,1,1,0,0,0,104,3,1,2,2,0,0,115
+Mephitis mephitis,2,0,0,0,0,1,0,6,0,0,2,54,1,6,0,0,0,72
+Nyctereutes procyonoides,2,12,5,1,0,0,0,0,4,0,3,1,134,3,1,0,2,168
+Procyon lotor,1,0,0,2,0,0,0,0,15,0,1,0,2,170,0,0,0,191
+Tadarida brasiliensis,2,0,0,0,0,4,0,0,0,0,3,4,0,0,60,0,0,73
+Vulpes lagopus,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,41,2,44
+Vulpes vulpes,0,1,3,4,1,0,0,1,0,0,0,5,7,6,1,4,52,85
+All,98,51,87,126,90,108,43,42,46,51,138,95,189,220,76,45,58,1563

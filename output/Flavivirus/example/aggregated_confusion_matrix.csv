@@ -1,0 +1,5 @@
+True,aedes,culex,ixodes,All
+aedes,40,0,0,40
+culex,0,40,0,40
+ixodes,0,0,40,40
+All,40,40,40,120
