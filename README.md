@@ -25,9 +25,9 @@ HostNet configuration file commands
 
 HostNet uses configuration files to centrally configure the parameters of the model.
 
- All configuration files are stored in the `/HostNet/train/config/` folder (you can also adjust it as needed), and the training will automatically read the folder. 
+ All configuration files are stored in the `/HostNet/train/config/` folder (you can adjust it as needed), and the training will automatically read the folder. 
 
-All profiles are trained sequentially. There are two example files in the current folder, which are used to test the two given example models respectively.
+All profiles are trained sequentially. Two example files in the current folder are used to test the two given example models, respectively.
 
 
 
@@ -50,7 +50,7 @@ Each command in the configuration file and its specific meaning are shown in the
 
 
 
-After creating your config file you can train or test your model
+After creating your config file, you can train or test your model.
 
 HostNet output files
 ---
@@ -65,10 +65,11 @@ The meanings of each file are as follows:
 - key_point_per_class_table.csv : Generate F1 and ACC corresponding to each category
 - training_kpi.csv : Generate Train ACC, Train LOSS and Val ACC during training
 
-Dataset
+Datasets
 ---
 
-We have published the pre-training dataset Vir61 and the prediction dataset Flavivirus at FigShare with Doi: 10.6084/m9.figshare.24604965
+We have published the pre-training dataset Vir61 and the prediction dataset Flavivirus at FigShare with DOI: 10.6084/m9.figshare.24604965. 
+You can access the datasets at: https://figshare.com/s/131bb316a196c4674207
 
 Contribute
 ---
