@@ -1,12 +1,12 @@
 # HostNet
 
-**HostNet** is a virus host prediction tool that can make predictions on rabies lyssavirus and flaviviruses, and can provide prediction services on other more data sets.
+**HostNet** is a virus-host prediction tool that can predict rabies lyssavirus and flaviviruses and provide prediction services on other data sets.
 
 [English](https://github.com/ChenXJer/HostNet) [中文](https://github.com/ChenXJer/HostNet/tree/main/README_ZH)
 
 ## Install
 
-Note that this implementation has only been tested on Python 3.8.5, we recommend to use linux and miniconda for the enviroment management.
+Note that this implementation has only been tested on Python 3.8.5; we recommend using Linux and Miniconda for enviroment management.
 
 1. [Download and install miniconda](https://docs.conda.io/projects/miniconda/en/latest/index.html).
 
@@ -17,7 +17,7 @@ Note that this implementation has only been tested on Python 3.8.5, we recommend
 5. Install pytorch: `pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113`
 6. Install Python dependencies: `pip install -r requirements.txt`
 
-7. Download the original dataset : `cd origin_data` and refer to the README.md file
+7. Download the original dataset: `cd origin_data` and refer to the README.md file
 8. Change directory `cd train`and test the installation: `python3 train_model.py`
 
 HostNet configuration file commands
@@ -65,10 +65,15 @@ The meanings of each file are as follows:
 - key_point_per_class_table.csv : Generate F1 and ACC corresponding to each category
 - training_kpi.csv : Generate Train ACC, Train LOSS and Val ACC during training
 
+Dataset
+---
+
+We have published the pre-training dataset Vir61 and the prediction dataset Flavivirus at FigShare with Doi: 10.6084/m9.figshare.24604965
+
 Contribute
 ---
 
-I would love for you to fork and send me pull request for this project.
+I would love for you to fork and send me a pull request for this project.
 Please contribute.
 
 License
